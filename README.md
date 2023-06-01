@@ -8,7 +8,10 @@
 
 Command line interface to execute Codacy code analysis locally.
 
-sdasdasd
+sdasdasdaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa
 
 With a single command you can:
   - Get static code analysis issues, complexity, duplication and other code metrics
