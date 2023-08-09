@@ -10,19 +10,22 @@ Command line interface to execute Codacy code analysis locally.
 
 sdasdasdaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
+aaaaaaaaaaaaaaaaaaaa dsad asd
 aaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaa
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad asd
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbba ds
 
-
-
+d asdas
 asdasdasddasdas
 
+as dasdasdsad
+
+
+yup 
 
 dsdasdasdsad
 saddsasda
